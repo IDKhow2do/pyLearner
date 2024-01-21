@@ -1,0 +1,5 @@
+In Python you can create variables to store information.
+In Python you can write functions to perform tasks.
+In Python you can use loops to repeat actions.
+In Python you can use classes to model real-world things.
+In Python you can work with files to save data.
